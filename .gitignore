@@ -1,0 +1,18 @@
+# Bloop
+.bloop/
+
+# macOS
+.DS_Store
+
+# Metals
+.metals/
+metals.sbt
+
+# sbt
+project/project/
+project/target/
+target/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
