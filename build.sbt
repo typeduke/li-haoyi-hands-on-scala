@@ -1,6 +1,6 @@
 organization := "com.typeduke"
 
-name := "scala-sbt-codespaces-template"
+name := "li-haoyi-hands-on-scala"
 
 version := "0.0.1"
 
